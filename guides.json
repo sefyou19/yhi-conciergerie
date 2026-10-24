@@ -172,7 +172,7 @@
   "config": {
     "base_url": "https://bruncheebox.github.io/yhi-conciergerie",
     "stripe_pk": "pk_test_51TGfD72OElIpJpkQKDkBMjUDPKWmkWt4KlTY1ZYj9ZQJRUdvFQTC68mFiEWmZmSvIWN3Z1TDIVAA6Q5Vms4Nkcso00bSTt1Wv8",
-    "n8n_webhook": "https://bruncheebox2.app.n8n.cloud/webhook/yhi-guide",
+    "n8n_webhook": "https://yhi-conciergerie-final.app.n8n.cloud/webhook/yhi-guide",
     "resend_email": "bruncheebox@gmail.com"
   }
 }
